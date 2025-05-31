@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "proyecto-fullstack-backend-ut"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic",
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
